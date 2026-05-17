@@ -29,6 +29,7 @@ Start Docker container:
 
 ```bash
 docker compose up -d
+```
 
 ## Install dependencies:
 
